@@ -186,15 +186,6 @@ docker run -d -p 8000:8000 networksecurity
 
 ---
 
-## 🔐 Security Practices Implemented
-
-* Environment variables for secrets
-* MongoDB secure connection (TLS)
-* IAM-based AWS access
-* No hardcoded credentials
-
----
-
 ## 📊 Features
 
 ✔ End-to-end ML pipeline
@@ -204,13 +195,6 @@ docker run -d -p 8000:8000 networksecurity
 ✔ CI/CD automation
 ✔ Cloud deployment (AWS)
 ✔ Modular code structure
-
----
-
-## 📸 Demo (Add Screenshots Here)
-
-* FastAPI `/docs` UI
-* Prediction results
 
 ---
 
@@ -237,15 +221,3 @@ docker run -d -p 8000:8000 networksecurity
 ## 📌 Conclusion
 
 This project demonstrates how to build and deploy a **production-ready ML system** using MLOps principles. It integrates machine learning, backend development, and cloud deployment into a single scalable pipeline.
-
----
-
-## 👨‍💻 Author
-
-**Sai Bhaskar**
-
----
-
-## ⭐ If you like this project
-
-Give it a ⭐ on GitHub!
